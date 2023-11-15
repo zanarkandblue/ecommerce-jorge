@@ -1,4 +1,4 @@
-import CartWidget from "./CartWidget"; 
+import CartWidget from "../CartWidget/CartWidget"; 
 import { PiRobot  } from "react-icons/pi";
 
 
